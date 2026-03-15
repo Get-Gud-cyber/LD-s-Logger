@@ -1,6 +1,6 @@
 import settings from "./settings.jsx";
 import * as common from "../../common";
-import { FluxDispatcher, moment } from "@vendetta/metro/common";
+import { FluxDispatcher } from "@vendetta/metro/common";
 import { storage } from "@vendetta/plugin";
 import { before as patchBefore } from "@vendetta/patcher";
 import { findByStoreName } from "@vendetta/metro";
