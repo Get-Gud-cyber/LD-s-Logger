@@ -5,7 +5,6 @@ import { showConfirmationAlert } from "@vendetta/ui/alerts";
 import { Forms } from "@vendetta/ui/components";
 import { getAssetIDByName } from "@vendetta/ui/assets";
 import { getTranslation } from "./translations.js";
-import ItemWithRemove from "../../common/ui/ItemWithRemove.jsx";
 
 const { ScrollView, View, Text, TextInput } = ReactNative;
 
