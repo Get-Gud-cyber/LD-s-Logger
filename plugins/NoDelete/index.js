@@ -65,8 +65,6 @@ export default {
 						// User/Bot Ignored Filters
 						if (storage.ignore.users.includes(oldMessage?.author?.id)) return;
 						if (storage.ignore.bots && oldMessage?.author?.bot) return;
-						// Ignore self
-						if (oldMessage?.author?.id === findByStoreName("UserStore").getCurrentUser()?.id) return;
 
 						// Guild & Mute Filters
 						const channel = ChannelStore.getChannel(channelId);
