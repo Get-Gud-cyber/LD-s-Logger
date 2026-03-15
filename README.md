@@ -12,3 +12,6 @@ Go to the plugins page in settings → press `+`
 ## [src](https://github.com/Meqativ/dumsane/edit/master/Insult) → [Insult](/dumsane/Insult)
 > in work
 ## [src](https://github.com/Meqativ/dumsane/edit/master/NoBandidthKick) → [NoBandwidthKick](/dumsane/NoBandwidthKick)
+
+
+all hail the blob
